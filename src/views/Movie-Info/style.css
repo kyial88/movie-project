@@ -1,0 +1,12 @@
+.inner-wrapper {
+    display: flex;
+     gap: 50px;
+    padding: 40px;
+}
+
+.movie-img {
+    width: 400px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
